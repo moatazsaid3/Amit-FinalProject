@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/de.innot.avreclipse.configuration.app.debug.1552384566/AVRDUDEPATH/delimiter=;
+environment/project/de.innot.avreclipse.configuration.app.debug.1552384566/AVRDUDEPATH/operation=replace
+environment/project/de.innot.avreclipse.configuration.app.debug.1552384566/AVRDUDEPATH/value=D\:\\programs\\Eclipse\\WinAVR\\bin
+environment/project/de.innot.avreclipse.configuration.app.debug.1552384566/PATH/delimiter=;
+environment/project/de.innot.avreclipse.configuration.app.debug.1552384566/PATH/operation=replace
+environment/project/de.innot.avreclipse.configuration.app.debug.1552384566/PATH/value=D\:\\programs\\Eclipse\\WinAVR\\bin;D\:\\programs\\Eclipse\\WinAVR\\utils\\bin;D\:\\programs\\Eclipse\\jre\\bin\\server;D\:\\programs\\Eclipse\\jre\\bin;D\:\\programs\\Eclipse\\jre\\lib\\amd64;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\WINDOWS\\System32\\OpenSSH\\;C\:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C\:\\Program Files\\Git\\cmd;C\:\\Users\\moata\\AppData\\Local\\Microsoft\\WindowsApps;D\:\\programs\\Microsoft\\Microsoft VS Code\\bin;D\:\\programs\\Eclipse
+environment/project/de.innot.avreclipse.configuration.app.debug.1552384566/append=true
+environment/project/de.innot.avreclipse.configuration.app.debug.1552384566/appendContributed=true
+environment/project/de.innot.avreclipse.configuration.app.release.1682207799/append=true
+environment/project/de.innot.avreclipse.configuration.app.release.1682207799/appendContributed=true
